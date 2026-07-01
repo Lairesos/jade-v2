@@ -7,7 +7,7 @@
     "esModuleInterop": true,
     "skipLibCheck": true
   },
-  "files": [
-    "api/health.ts"
+  "include": [
+    "api/**/*.ts"
   ]
 }
